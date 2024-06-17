@@ -1,4 +1,4 @@
-##Feature Engineering
+# Feature Engineering
 feature engineering is the process of using domain knowledge to extract features from raw data . This improves the performance machine learning model.
 - Everyone has their apporach of performing feature engineering
 Substeps of feature engineering:
