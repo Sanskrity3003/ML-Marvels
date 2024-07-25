@@ -17,7 +17,7 @@ df['col_name'].value_counts().plot(kind='pie, autopct='%.2f')
 
 # Univariate EDA for Numerical columns:
 
-**Numerical columns have continuous values i.e. they cannot be divided into groups like categorical columns.
+**Numerical columns have continuous values i.e. they cannot be divided into groups like categorical columns.**
 1. **HISTOGRAM**
    - It helps in converting numerical columns in categorical with the help of bins.
 ```
