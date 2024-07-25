@@ -23,6 +23,6 @@ graph TD
 
 -----
 ## Univariate Analysis
-- **Analysis of *single variable.*
+- **Analysis of single variable.
 - **Independent Analysis on each column**
 - **While performing Univariate analysis, we must strongly focus on creating graphs/charts.
