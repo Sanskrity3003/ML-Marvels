@@ -15,7 +15,7 @@ graph TD
 ```
 
 
-- **We'll be performing EDA on 2 types of data:
+- **We'll be performing EDA on 2 types of data:**
 
 | Numerical Data       | Data that is continuous                | age, marks, salary |
 | -------------------- | -------------------------------------- | ------------------ |
@@ -23,6 +23,6 @@ graph TD
 
 -----
 ## Univariate Analysis
-- **Analysis of single variable.
+- **Analysis of single variable.**
 - **Independent Analysis on each column**
-- **While performing Univariate analysis, we must strongly focus on creating graphs/charts.
+- **While performing Univariate analysis, we must strongly focus on creating graphs/charts.**
